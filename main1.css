@@ -1,3 +1,28 @@
-.het-cuu {
-    font-weight: 1000;
+div.heading {
+    height: 0.25vh;
+    width: 50%;
+    margin-top: 11%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: ;
+}
+div.heading .title {
+    color: hsl(240, 100%, 50%);
+    font-size: 3.4vw;
+    text-align: center;
+    font-weight: 1500;
+    margin-bottom: 3%;
+}
+div.heading .subtitle {
+    color: grey;
+    font-size: 1vw;
+    text-align: center;
+    font-weight: 1500;
+}
+div.type .username {
+    width: 200px;
+  height: 100px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
 }
